@@ -7,8 +7,9 @@ npm install
 
 ### Run
 ```bash
-// download logging roads as geoJSON
+# download logging roads as geoJSON
 node downloader.js
-// calculate stats for start_date
+
+# calculate stats for start_date
 node stats.js
 ```
