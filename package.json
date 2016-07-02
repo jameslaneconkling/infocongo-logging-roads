@@ -1,0 +1,19 @@
+{
+  "name": "logging-roads-downloader",
+  "version": "1.0.0",
+  "description": "Simple script to download logging roads in the Congo Basin from OSM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geojson-stream": "0.0.1",
+    "query-overpass": "^1.1.0",
+    "stream-reduce": "^1.0.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
